@@ -12,5 +12,5 @@ app.include_router(follow.router)
 app.include_router(users.router)
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to Devloper Connect API"
-            "Author: Paras Bansal"}
+    return {"message": "Welcome to Devloper Connect API"},
+    {"Author: Paras Bansal"}
