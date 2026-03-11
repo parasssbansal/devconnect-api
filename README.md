@@ -155,10 +155,8 @@ Swagger automatically generates interactive API documentation.
 Example response:
 
 ```
-{
-  "message": "Welcome to DEVConnect API",
-  "author": "Paras Bansal"
-}
+<img width="392" height="97" alt="image" src="https://github.com/user-attachments/assets/65376805-891f-47c3-bf33-2de5cec961fd" />
+
 ```
 
 ---
