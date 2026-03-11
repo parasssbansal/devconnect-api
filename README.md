@@ -154,10 +154,8 @@ Swagger automatically generates interactive API documentation.
 
 Example response:
 
-```
-<img width="392" height="97" alt="image" src="https://github.com/user-attachments/assets/65376805-891f-47c3-bf33-2de5cec961fd" />
+<img width="392" height="97" alt="image" src="https://github.com/user-attachments/assets/43c2f8dc-a99a-4af1-b9e0-73a35a5c46a2" />
 
-```
 
 ---
 
